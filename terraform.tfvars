@@ -1,0 +1,8 @@
+vpc_cidr      = "10.50.0.0/16"
+vpc_name      = "Dev-vpc"
+cidr_subnet_1 = "10.50.1.0/24"
+az1           = "ap-south-1a"
+subnet_1_name = "Dev-Subnet-1"
+cidr_subnet_2 = "10.50.2.0/24"
+az2           = "ap-south-1b"
+subnet_2_name = "Dev-Subnet-2"
